@@ -1,4 +1,4 @@
-# Stakeholder Management 10 Commandments
+# Stakeholder Management 10 Commandments!
 
 Stakeholder engagement and stakeholder management are arguably the most important ingredients for successful project delivery, and yet are often regarded as a fringe activity or one that can be outsourced to business-as-usual functions. Project managers depend on people to respond to the outputs and benefits that they deliver.
 
