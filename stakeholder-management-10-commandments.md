@@ -4,6 +4,10 @@ Stakeholder engagement and stakeholder management are arguably the most importan
 
 People will only respond if they are engaged. The phrase “stakeholder management" implies that these people can be made to respond positively to a project, but the truth is that a project manager frequently has no formal power of authority and therefore has to rely on engagement to achieve his/her objectives.
 
+_Note_:
+
+**Good project governance and success requires providing clarity about stakeholder engagement roles and responsibilities and what is expected of people involved in the project.**
+
 ### Communicate
 
 Before aiming to engage and influence stakeholders, it’s crucial to seek to understand the people you will be working with and relying on throughout the phases of the project lifecycle. Sharing information with stakeholders is important, but it is equally important to first gather information about your stakeholders.
@@ -42,5 +46,5 @@ Project success means different things to different people and you need to estab
 
 ### Take responsibility
 
-Stakeholder engagement is not the job of one member of the project team. It’s the responsibility of everyone to understand their role and to follow the right approach to communication and engagement. Good project governance requires providing clarity about stakeholder engagement roles and responsibilities and what is expected of people involved in the project.
+Stakeholder engagement is not the job of one member of the project team. It’s the responsibility of everyone to understand their role and to follow the right approach to communication and engagement. 
  
