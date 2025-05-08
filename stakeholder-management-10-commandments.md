@@ -6,7 +6,7 @@ People will only respond if they are engaged. The phrase “stakeholder manageme
 
 _Note_:
 
-**Good project governance and success requires providing clarity about stakeholder engagement roles and responsibilities and what is expected of people involved in the project.**
+**Good project governance and success requires providing clarity about stakeholder engagement roles and responsibilities and what is expected of people involved in the project - being assertiveness is paramount.**
 
 ### Communicate
 
